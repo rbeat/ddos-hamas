@@ -1,0 +1,32 @@
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ddos.exe
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ddos.deps.json
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ddos.runtimeconfig.json
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ddos.runtimeconfig.dev.json
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ddos.dll
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ref\ddos.dll
+D:\google drive\Projects\.net\ddos\bin\Debug\net5.0\ddos.pdb
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.csproj.AssemblyReference.cache
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.GeneratedMSBuildEditorConfig.editorconfig
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.AssemblyInfoInputs.cache
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.AssemblyInfo.cs
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.csproj.CoreCompileInputs.cache
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.dll
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ref\ddos.dll
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.pdb
+D:\google drive\Projects\.net\ddos\obj\Debug\net5.0\ddos.genruntimeconfig.cache
+D:\GitHub\ddos\bin\Debug\net5.0\ddos.exe
+D:\GitHub\ddos\bin\Debug\net5.0\ddos.deps.json
+D:\GitHub\ddos\bin\Debug\net5.0\ddos.runtimeconfig.json
+D:\GitHub\ddos\bin\Debug\net5.0\ddos.runtimeconfig.dev.json
+D:\GitHub\ddos\bin\Debug\net5.0\ddos.dll
+D:\GitHub\ddos\bin\Debug\net5.0\ref\ddos.dll
+D:\GitHub\ddos\bin\Debug\net5.0\ddos.pdb
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.csproj.AssemblyReference.cache
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.AssemblyInfoInputs.cache
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.AssemblyInfo.cs
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.csproj.CoreCompileInputs.cache
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.dll
+D:\GitHub\ddos\obj\Debug\net5.0\ref\ddos.dll
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.pdb
+D:\GitHub\ddos\obj\Debug\net5.0\ddos.genruntimeconfig.cache
